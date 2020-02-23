@@ -1,3 +1,5 @@
+![Java CI](https://github.com/jenish-jadav/room-mvvm-rxjava/workflows/Java%20CI/badge.svg)
+
 # Room MVVM RxJava2
 
 I have implemented simple chat ui with Room Database.
